@@ -39,6 +39,8 @@ E.g.
 
 `exp/new-load-balancer`
 
+- `dev`
+branch contains changes related to further development
 - `exp`
 branch contains experimental code
 - `ref`
